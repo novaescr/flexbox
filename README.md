@@ -21,3 +21,10 @@
 | ETAPA 3       |Grid Principal|
 | ETAPA 4       |Utilização de flex para mobile|
 | ETAPA 5       |Finalização |
+
+
+`Versão Desktop | Versão Mobile`
+![Interface](https://github.com/novaescr/flexbox/blob/main/layouts/alurinha-layout-desktop.png)
+
+
+![Interface](https://github.com/novaescr/flexbox/blob/main/layouts/alurinha-layout-mobile.png)
